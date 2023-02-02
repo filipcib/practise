@@ -1,0 +1,6 @@
+{
+  "react-native-tools.logLevel": "Trace",
+  "react-native-tools": {
+    "projectRoot": "."
+  }
+}
